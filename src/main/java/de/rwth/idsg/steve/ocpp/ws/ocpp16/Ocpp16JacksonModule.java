@@ -1,5 +1,5 @@
 /*
- * SteVe - SteckdosenVerwaltung - https://github.com/steve-community/steve
+ * SteVe - SteckdosenVerwaltung - https://github.com/steves-community/steve
  * Copyright (C) 2013-2024 SteVe Community Team
  * All Rights Reserved.
  *
